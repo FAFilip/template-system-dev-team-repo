@@ -1,4 +1,4 @@
-#Errata
+# Errata
 
 This folder contains errata files provided by component manufacturers
 
